@@ -14,7 +14,6 @@ The `HandMouseController` is a Python program that uses computer vision and hand
 - Python 3.x
 - OpenCV (`cv2`)
 - NumPy (`numpy`)
-- `HandTrackingModule` for hand landmark detection
 - `pynput` for keyboard control
 - `pyautogui` for mouse control
 - `pymouse` for additional mouse functionality
@@ -24,8 +23,8 @@ The `HandMouseController` is a Python program that uses computer vision and hand
 ## Installation
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-repo/HandMouseController.git
-   cd HandMouseController
+   git clone https://github.com/Programmer118/Virtual-Mouse-Hand-Gesture.git
+   cd Virtual-Mouse-Hand-Gesture
    ```
 
 2. **Install Required Packages**:
@@ -35,7 +34,7 @@ The `HandMouseController` is a Python program that uses computer vision and hand
 
 3. **Run the Program**:
    ```sh
-   python HandMouseController.py
+   python AiVirtualMouse.py
    ```
 
 ## Usage
