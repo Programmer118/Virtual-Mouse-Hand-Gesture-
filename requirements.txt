@@ -1,0 +1,6 @@
+opencv-python-headless==4.5.1.48
+numpy==1.19.5
+pynput==1.7.3
+pyautogui==0.9.52
+pymouse==1.0
+pywinauto==0.6.8
